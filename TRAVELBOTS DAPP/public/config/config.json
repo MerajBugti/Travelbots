@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xC72FB87EdC2ce1B559f48aa8E5E309e92b334A94",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xc72fb87edc2ce1b559f48aa8e5e309e92b334a94#code",
+  "NETWORK": {
+    "NAME": "Rinkeby Test Network",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "TRAVEL BOTS",
+  "SYMBOL": "TB",
+  "MAX_SUPPLY": 6666,
+  "WEI_COST": 175000000000000000,
+  "DISPLAY_COST": 0.175,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/",
+  "SHOW_BACKGROUND": true
+}
